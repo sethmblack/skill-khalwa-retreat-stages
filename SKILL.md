@@ -4,7 +4,8 @@ description: A framework for spiritual retreat derived from Ibn Arabi's "Journey
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1
+  version: 1.0.4345
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - khalwa-retreat-stages
 - writing
